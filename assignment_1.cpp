@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // notes sometimes I use printf because like a console.log in javascript, its easy
     // Variables
     int num;
     int num1 ;
